@@ -17,25 +17,24 @@ you image will stored at your ~/ location if not specified
 
 
 
-#	# Please do not use this program for any business purposes or for any illegal purposes use
+# Please do not use this program for any business purposes or for any illegal purposes use
 
-## Important!
-#	  If you like those pictures you have to buy from photographer's website. If you
-#   use this project to get picture you are agreed you will delete those result later.
+# Important!
+  If you like those pictures you have to buy from photographer's website. If you
+   use this project to get picture you are agreed you will delete those result later.
 
-#   If you decide to keep any images as a result of this program is purely between you
-#   and that photographer company.
-#   And you agree do not use this program to mass-produce image for other people!
+   If you decide to keep any images as a result of this program is purely between you
+   and that photographer company.
+   And you agree do not use this program to mass-produce image for other people!
 
 
-#   I Welcome new developer to join this project and contribute in Bash shell image processing.
-
+   I Welcome new developer to join this project and contribute in Bash shell image processing.
 
 
 # Regarding this project itself:
-#   You are not only free to study/use it, you are also authorized to redistribute it, which means you
-#   can download it/modify it and claim that's your own property and re-sell to others, but at your own
-#   liablity.
+   You are not only free to study/use it, you are also authorized to redistribute it, which means you
+   can download it/modify it and claim that's your own property and re-sell to others, but at your own
+   liablity.
 
 
 
