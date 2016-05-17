@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #GraduationPictureService.sh will fetch back your graduation commencement pictures
-#from website and export to you in jpg. To use it, simply by: $sh GraduationPictureService.sh
+#from website and export to you in jpg. To use it, simply by: `bash GraduationPictureService.sh`
 #OS: Linux/Unix, with convert, wget installed
 
 
